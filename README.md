@@ -1,7 +1,6 @@
 # New socrate fonts
 
-Se copiaza toate fisierele in **/usr/share/fonts/TTF** (merge si un subdir)
-
+Se copiaza toate fisierele in **/usr/share/fonts/TTF** 
 Se forteaza cache-uirea celor noi cu 
 ```
 fc-cache -f 
